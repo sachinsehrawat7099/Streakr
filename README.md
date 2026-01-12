@@ -1,4 +1,4 @@
-flowchart TD
+
     UI[Frontend] --> GW[API Gateway]
 
     GW --> US[User Service]
